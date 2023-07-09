@@ -8,7 +8,7 @@ import java from "../simgs/java.png";
 import github from "../simgs/github.png";
 import tailwind from "../simgs/tailwind.png";
 import bootstrap from "../simgs/bootstrap.png"
-const Experience = () => {
+const Skills = () => {
   const techs = [
     {
       id: 1,
@@ -93,4 +93,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Skills;
